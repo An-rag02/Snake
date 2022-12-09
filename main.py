@@ -160,4 +160,4 @@ if __name__ == '__main__':
 
     print('Final score : ', score)
     pygame.quit()
-    #idk what to do, this is for pull request
+    #hmm
