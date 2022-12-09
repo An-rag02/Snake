@@ -27,7 +27,6 @@ BLACK = (0, 0, 0)
 BLOCK_SIZE = 20
 SPEED = 10
 
-
 class SnakeGame:
 
     def __init__(self, w=640, h=480):
@@ -148,7 +147,6 @@ class SnakeGame:
 
         return False
 
-
 if __name__ == '__main__':
     game = SnakeGame()
 
@@ -160,5 +158,4 @@ if __name__ == '__main__':
 
     print('Final score : ', score)
     pygame.quit()
-    #hmm
-    #edit-3
+    #End of File
